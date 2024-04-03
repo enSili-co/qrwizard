@@ -3,7 +3,7 @@
 </p>
 <h1 align=center>QR Wizard for Mac</h1>
 <p align=center>
-  The only color palette generator you'll ever need;<br>at from the confort of your... Mac!
+  QR Code styling + generation<br/>made ultra-fun and easy
 </p>
 
 

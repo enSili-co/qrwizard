@@ -1,5 +1,5 @@
 {
-  "name": "QR Wizard: Color palette generator for macOS",
+  "name": "QR Wizard: QR Code generator for macOS",
   "icons": [
     {
       "src": "favico/android-icon-36x36.png",
@@ -39,7 +39,7 @@
     }
   ],
   "short_name": "QR Wizard",
-  "description": "Generate a color palette from one color, organize your palettes, preview and export",
+  "description": "Generate & style beautiful QRCode images directly from your Mac",
   "start_url": "/",
   "display": "standalone"
 }
