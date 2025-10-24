@@ -11,7 +11,7 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://cdn.ensili.co/download/qrwizard/qrwizard-2.5.4.zip
+▶︎ https://cdn.ensili.co/download/qrwizard/qrwizard-2.5.5.zip
 
 # Official Website
 
