@@ -11,11 +11,11 @@
 
 # Download for free (3-day trial)
 
-▶︎ https://cdn.ensili.co/download/qrwizard/qrwizard-2.6.zip
+▶︎ https://ensili.co/download/qrwizard/qrwizard-2.6.zip
 
 # Official Website
 
-▶︎ https://qrwiz.app
+▶︎ https://ensili.co/app/qrwizard
 
 # Issues
 
